@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6fae0885-d0a3-487c-be01-9ab00457c895" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parkinglot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/parkinglot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Gate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ParkingAttendant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ParkingAttendant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ParkingLot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ParkingSpot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ParkingSpot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
